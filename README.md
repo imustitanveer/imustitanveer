@@ -1,8 +1,8 @@
 <h1 align="center">Greetings, What Brings You Here Today?</h1>
 <h3 align="center">Aspiring AI Developer</h3>
 
+<img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="animated" />
 <p align="left"> <a href="https://twitter.com/mustassum_t" target="blank"><img src="https://img.shields.io/twitter/follow/mustassum_t?logo=twitter&style=for-the-badge" alt="mustassum_t" /></a> </p>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2LpMl5CRlSk8tAORJL0H_Q&ust=1709250282740000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjY4tGbz4QDFQAAAAAdAAAAABAE](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)">
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development**
 
